@@ -20,7 +20,7 @@ To use this script, you need two standard open-source tools installed on your Wi
 *Note: For the script to work out of the box, make sure `yt-dlp.exe` and `ffmpeg.exe` are either in the exact same folder as this batch script, or added to your system's `PATH` environment variable.*
 
 ## 🚀 Installation & Usage
-1. Download the `yt-dlp-interactive.bat` file from this repository.
+1. Download the `youtubeVideoDownloader.bat` file from this repository.
 2. Place it in the folder where you want your media to be downloaded.
 3. Double-click the `.bat` file to run it. 
 4. Type the corresponding numbers to toggle your desired settings.
